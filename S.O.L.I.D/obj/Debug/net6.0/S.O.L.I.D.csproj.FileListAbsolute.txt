@@ -1,0 +1,12 @@
+F:\S.O.L.I.D\S.O.L.I.D\bin\Debug\net6.0\S.O.L.I.D.deps.json
+F:\S.O.L.I.D\S.O.L.I.D\bin\Debug\net6.0\S.O.L.I.D.dll
+F:\S.O.L.I.D\S.O.L.I.D\bin\Debug\net6.0\S.O.L.I.D.pdb
+F:\S.O.L.I.D\S.O.L.I.D\obj\Debug\net6.0\S.O.L.I.D.csproj.AssemblyReference.cache
+F:\S.O.L.I.D\S.O.L.I.D\obj\Debug\net6.0\S.O.L.I.D.GeneratedMSBuildEditorConfig.editorconfig
+F:\S.O.L.I.D\S.O.L.I.D\obj\Debug\net6.0\S.O.L.I.D.AssemblyInfoInputs.cache
+F:\S.O.L.I.D\S.O.L.I.D\obj\Debug\net6.0\S.O.L.I.D.AssemblyInfo.cs
+F:\S.O.L.I.D\S.O.L.I.D\obj\Debug\net6.0\S.O.L.I.D.csproj.CoreCompileInputs.cache
+F:\S.O.L.I.D\S.O.L.I.D\obj\Debug\net6.0\S.O.L.I.D.dll
+F:\S.O.L.I.D\S.O.L.I.D\obj\Debug\net6.0\refint\S.O.L.I.D.dll
+F:\S.O.L.I.D\S.O.L.I.D\obj\Debug\net6.0\S.O.L.I.D.pdb
+F:\S.O.L.I.D\S.O.L.I.D\obj\Debug\net6.0\ref\S.O.L.I.D.dll
