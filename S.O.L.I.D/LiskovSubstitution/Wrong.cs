@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace S.O.L.I.D
+namespace S.O.L.I.D.L
 {
-    internal class LiskovSubstitution
+    internal class Wrong
     {
-        //wrong
         public class CollectionBase
         {
             public int Count { get; set; }
@@ -35,33 +34,5 @@ namespace S.O.L.I.D
                 throw new InvalidOperationException();
             }
         }
-
-
-
-
-        //////solution
-        //public interface IList
-        //{
-        //    void Add(object item);
-        //}
-
-        //public class CollectionBase
-        //{
-        //    public int Count { get; set; }
-        //}
-
-        //public class List : CollectionBase, IList
-        //{
-        //    public void Add(object item)
-        //    {
-        //        // add item to list
-        //    }
-        //}
-
-        //public class Array : CollectionBase
-        //{
-        //}
     }
-
-
 }
